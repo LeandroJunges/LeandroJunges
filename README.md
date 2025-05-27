@@ -68,7 +68,7 @@ Atualmente explorando o universo **Flutter/Dart** para expandir ainda mais minha
 
 ---
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeandroJunges/LeandroJunges/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
