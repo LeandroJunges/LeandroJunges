@@ -65,6 +65,9 @@ Atualmente explorando o universo **Flutter/Dart** para expandir ainda mais minha
 
 ![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroJunges&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroJunges&layout=compact&theme=tokyonight)
+
+---
+
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ---
